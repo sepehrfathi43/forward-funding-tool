@@ -1,0 +1,1 @@
+account_id,currency,period_start,period_end,opening_balance,closing_balance,expected_debits,expected_credits,date,description,debit,credit,balance
